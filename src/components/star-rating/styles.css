@@ -1,0 +1,7 @@
+.active{
+    color: yellow;
+    transform: scaleX(2);
+}
+.inactive{
+    color: black;
+}
