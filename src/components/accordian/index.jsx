@@ -32,7 +32,6 @@ export default function Accordian() {
                     ? () => handleMultipleSelection(dataItem.id)
                     : () => handleSingleSelection(dataItem.id)
                 }
-                k
                 className="title"
               >
                 <h3>{dataItem.question}</h3>
